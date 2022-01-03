@@ -1,0 +1,28 @@
+.cont {
+  display: flex;
+  height: 300px;
+  margin-left: 100px;
+}
+.right{
+    border: 1px solid black;
+    width: 600px;
+    overflow: scroll;
+    background-color: bisque;
+    border-radius: 10px;
+}
+.left{
+    width: 600px;
+    border: 1px solid black;
+}
+.moreinfor{
+    display: flex;
+    gap: 10%;
+    margin-top: 30px;
+    border: 100px;
+}
+.name{
+    text-align: center;
+}
+.moreinfor>h4{
+    width: 12%;
+}

@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": "EVqLZUyj",
+      "Recepie": "Aakash",
+      "Time": 12,
+      "Instruction": "Explore 10000+ recipes, recipes in videos, the latest food news, articles, kitchen hacks, diet plans and many more at Times Food.",
+      "Ingredient": "salt, chilli",
+      "Type": "Spicy",
+      "Image": "blob:http://localhost:3000/7e759adb-0e3b-4644-8180-7434370f9682"
+    },
+    {
+      "id": "g1o8sOIB",
+      "Recepie": "abac",
+      "Time": 1,
+      "Instruction": "Explore 10000+ recipes, recipes in videos, the latest food news, articles, kitchen hacks, diet plans and many more at Times Food.",
+      "Ingredient": "salt, chilli",
+      "Type": "Spicy",
+      "Image": "blob:http://localhost:3000/7e759adb-0e3b-4644-8180-7434370f9682"
+    },
+    {
+      "id": "57iUb5z6",
+      "Recepie": "xyz",
+      "Time": 2,
+      "Instruction": "Explore 10000+ recipes, recipes in videos, the latest food news, articles, kitchen hacks, diet plans and many more at Times Food.",
+      "Ingredient": "salt, chilli",
+      "Type": "Spicy",
+      "Image": "blob:http://localhost:3000/7e759adb-0e3b-4644-8180-7434370f9682"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

@@ -1,0 +1,11 @@
+.form{
+    border: 1px solid black;
+    margin-right: 15%;
+    border-radius: 15px;
+    background-color: aquamarine;
+}
+.form>input{
+    margin-top: 15px;
+    margin-left: 20px;
+    width: 220px;
+}
