@@ -48,7 +48,7 @@ export const Recipe = ({ getData }) => {
           placeholder="Enter Ingredient"
         />
         <br />
-        <label>Department : &nbsp;&nbsp;&nbsp; </label>
+        <label>Type : &nbsp;&nbsp;&nbsp; </label>
         <select onChange={handleChange} name="Type">
           <option value="Cheese">Cheese</option>
           <option value="Spicy">Spicy</option>
