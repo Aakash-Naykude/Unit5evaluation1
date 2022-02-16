@@ -1,15 +1,6 @@
 {
   "posts": [
     {
-      "id": "Y_Yn1cgj",
-      "Recepie": "Aakash",
-      "Time": 12,
-      "Instruction": "Find and share everyday cooking inspiration on Allrecipes. Discover recipes, cooks, videos, and how-tos based on the food you love and the friends you ...",
-      "Ingredient": "salt, chilli",
-      "Type": "Bake",
-      "Image": "blob:http://localhost:3000/d6e0123a-c125-453f-a072-bceef468915b"
-    },
-    {
       "id": "cHw03beP",
       "Recepie": "abc",
       "Time": 1,
